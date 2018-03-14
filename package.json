@@ -1,0 +1,16 @@
+{
+  "name": "webdriverio-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_file.js",
+  "dependencies": {
+    "chromedriver": "^2.36.0",
+    "webdriverio": "^4.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

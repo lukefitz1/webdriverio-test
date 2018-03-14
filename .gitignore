@@ -1,0 +1,4 @@
+node_modules/
+geckodriver
+package-lock.json
+selenium-server-standalone-3.5.3.jar
