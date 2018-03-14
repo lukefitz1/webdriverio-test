@@ -1,8 +1,8 @@
 var webdriverio = require('webdriverio');
 var options = {
-    headers: {
-      Authorization: 'Basic c3RvcmVmcm9udDpwYXNzNGJsdWVhY29ybg=='
-    },
+    // headers: {
+    //   Authorization: 'Basic c3RvcmVmcm9udDpwYXNzNGJsdWVhY29ybg=='
+    // },
     desiredCapabilities: {
         browserName: 'chrome'
     }
